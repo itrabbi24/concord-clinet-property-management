@@ -1,0 +1,161 @@
+[
+    {
+      "id": 1,
+      "estate_title": "Luxury Villa with Ocean View",
+      "segment_name": "Residential",
+      "image": "https://i.ibb.co/sHMLQfr/villa.jpg",
+      "description": "A stunning luxury villa with breathtaking ocean views.",
+      "price": "$1,500,000",
+      "status": "sale",
+      "area": "5000 sq ft",
+      "location": "Malibu, California",
+      "facilities": ["Swimming Pool", "Gym", "Spa", "Home Theater"],
+      "other_info": {
+        "bedrooms": 5,
+        "bathrooms": 6,
+        "garage": 2,
+        "year_built": 2020
+      }
+    },
+    {
+      "id": 2,
+      "estate_title": "Modern Loft in Downtown",
+      "segment_name": "Residential",
+      "image": "https://i.ibb.co/N9VmKtQ/loft.jpg",
+      "description": "Spacious loft in the heart of the city with panoramic city views.",
+      "price": "$800,000",
+      "status": "sale",
+      "area": "2000 sq ft",
+      "location": "New York City, New York",
+      "facilities": ["Open Floor Plan", "High Ceilings", "Balcony"],
+      "other_info": {
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "year_built": 2015
+      }
+    },
+    {
+      "id": 3,
+      "estate_title": "Family Home in Suburban",
+      "segment_name": "Residential",
+      "image": "https://i.ibb.co/s6kv8kR/family-home.jpg",
+      "description": "Charming family home with a spacious backyard and garden.",
+      "price": "$600,000",
+      "status": "sale",
+      "area": "2500 sq ft",
+      "location": "Suburbia, Anytown",
+      "facilities": ["Backyard", "Garden", "Fireplace"],
+      "other_info": {
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "garage": 2,
+        "year_built": 1990
+      }
+    },
+    {
+      "id": 4,
+      "estate_title": "Luxury Penthouse with City Views",
+      "segment_name": "Residential",
+      "image": "https://i.ibb.co/Gs9D3J5/penthouse.jpg",
+      "description": "Exclusive penthouse apartment with panoramic city skyline views.",
+      "price": "$2,000,000",
+      "status": "sale",
+      "area": "3000 sq ft",
+      "location": "Manhattan, New York",
+      "facilities": ["Rooftop Terrace", "Fitness Center", "Concierge Service"],
+      "other_info": {
+        "bedrooms": 3,
+        "bathrooms": 4,
+        "garage": 2,
+        "year_built": 2018
+      }
+    },
+    {
+      "id": 5,
+      "estate_title": "Beachfront Cottage with Private Access",
+      "segment_name": "Residential",
+      "image": "https://i.ibb.co/zFf8kLy/beach-cottage.jpg",
+      "description": "Quaint cottage with direct beach access and stunning ocean views.",
+      "price": "$900,000",
+      "status": "sale",
+      "area": "1500 sq ft",
+      "location": "Santa Barbara, California",
+      "facilities": ["Beach Access", "Fire Pit", "Deck"],
+      "other_info": {
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "year_built": 1955
+      }
+    },
+    {
+      "id": 6,
+      "estate_title": "Mountain Retreat with Panoramic Views",
+      "segment_name": "Residential",
+      "image": "https://i.ibb.co/Rjn4mj1/mountain-retreat.jpg",
+      "description": "Secluded mountain retreat with breathtaking mountain views.",
+      "price": "$1,200,000",
+      "status": "sale",
+      "area": "3500 sq ft",
+      "location": "Aspen, Colorado",
+      "facilities": ["Mountain Views", "Hot Tub", "Fireplace"],
+      "other_info": {
+        "bedrooms": 3,
+        "bathrooms": 3,
+        "garage": 3,
+        "year_built": 2008
+      }
+    },
+    {
+      "id": 7,
+      "estate_title": "Lakefront Cabin in the Woods",
+      "segment_name": "Residential",
+      "image": "https://i.ibb.co/7v0zc3J/lakefront-cabin.jpg",
+      "description": "Cozy cabin nestled in the woods with stunning lake views.",
+      "price": "$700,000",
+      "status": "sale",
+      "area": "1800 sq ft",
+      "location": "Lake Tahoe, California",
+      "facilities": ["Lake Views", "Deck", "Wood Burning Stove"],
+      "other_info": {
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "year_built": 1968
+      }
+    },
+    {
+      "id": 8,
+      "estate_title": "Elegant Townhouse in Historic",
+      "segment_name": "Residential",
+      "image": "https://i.ibb.co/88866qg/townhouse.jpg",
+      "description": "Beautiful townhouse in a charming historic neighborhood.",
+      "price": "$1,100,000",
+      "status": "sale",
+      "area": "2800 sq ft",
+      "location": "Charleston, South Carolina",
+      "facilities": ["Historic Charm", "Courtyard", "Modern Amenities"],
+      "other_info": {
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "garage": 2,
+        "year_built": 1920
+      }
+    },
+    {
+      "id": 9,
+      "estate_title": "Ski-In/Ski-Out Chalet",
+      "segment_name": "Residential",
+      "image": "https://i.ibb.co/RQcfs6N/ski-chalet.jpg",
+      "description": "Luxurious ski chalet with direct access to the slopes.",
+      "price": "$1,800,000",
+      "status": "sale",
+      "area": "4000 sq ft",
+      "location": "Whistler, British Columbia",
+      "facilities": ["Ski Access", "Hot Tub", "Game Room"],
+      "other_info": {
+        "bedrooms": 5,
+        "bathrooms": 5,
+        "garage": 3,
+        "year_built": 2010
+      }
+    }
+]
